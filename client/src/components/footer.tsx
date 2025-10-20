@@ -95,12 +95,12 @@ export function Footer() {
                   className="hover:text-primary transition-colors"
                   data-testid="link-footer-phone"
                 >
-                  +221 12 345 67 89
+                  +228 70 60 92 43
                 </a>
               </li>
               <li className="flex items-start gap-3 text-sm text-muted-foreground">
                 <MapPin className="h-4 w-4 mt-0.5 text-primary flex-shrink-0" />
-                <span data-testid="text-footer-address">Dakar, Sénégal</span>
+                <span data-testid="text-footer-address">Lomé, Togo</span>
               </li>
             </ul>
             <div className="mt-6 text-sm text-muted-foreground">

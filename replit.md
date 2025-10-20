@@ -81,7 +81,7 @@ Le projet suit des guidelines strictes définies dans `design_guidelines.md`:
 
 ## Commandes
 - `npm run dev`: Démarre le serveur de développement (frontend + backend)
-- Port: 5000 (frontend et backend sur le même port)
+- Port: 9002 (frontend et backend sur le même port)
 
 ## Prochaines étapes
 - Tester le formulaire de contact end-to-end
