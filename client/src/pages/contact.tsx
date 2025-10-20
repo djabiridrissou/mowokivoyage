@@ -141,7 +141,7 @@ export default function Contact() {
                     <div>
                       <p className="font-medium text-foreground mb-1" data-testid="text-contact-address-label">Adresse</p>
                       <p className="text-muted-foreground" data-testid="text-contact-address">
-                        Dakar, Sénégal
+                        Lomé, Togo
                       </p>
                     </div>
                   </div>
